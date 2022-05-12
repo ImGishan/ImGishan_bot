@@ -7,7 +7,7 @@ import numpy as np
 import requests
 from PIL import Image, ImageDraw, ImageOps
 
-from config import REM_BG_API_KEY
+REM_BG_API_KEY = "t4cPfeAYMRPGDaBUv9ycAema"
 
 
 async def rotate_90(client, message):
