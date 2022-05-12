@@ -110,7 +110,7 @@ from edit.edit_5 import (  # pylint:disable=import-error
 
 Client = Client(
     "Test Bot",
-    bot_token= "5314301510:AAFuwFc--tkfMZvalsrzjZxam9wp-ULBV7Y",
+    bot_token= "5314301510:AAHgI29NMpGR0fN5E-EGYSdrVcYoOO9ZKpE",
     api_id= 8838171,
     api_hash= "0587408d4f7d9301f5295840b0f3b494",
 )
