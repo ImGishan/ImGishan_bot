@@ -52,7 +52,6 @@ import yt_dlp
 from urllib.parse import urlparse
 from opencc import OpenCC
 from pyrogram import filters
-from szbot.helpers.fsub import ForceSub
 from pyrogram.types import (
     CallbackQuery,
     InlineKeyboardButton,
